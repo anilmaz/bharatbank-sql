@@ -76,7 +76,7 @@ docker run -d -p 1433:1433 \
 📚 Learn More
 - SQL Server Documentation - https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17
 - Docker for Windows - https://docs.docker.com/desktop/windows/
-- RBI Sandbox Guidelines - https://rbidocs.rbi.org.in/
+  
 
 🛠️ Contribute
 Want to add Healthcare, Retail, or Education verticals? Fork this repo and submit a pull request. Let’s build India-first database containers together.
